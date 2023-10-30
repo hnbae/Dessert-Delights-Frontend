@@ -1,0 +1,33 @@
+/* .slider-container {
+  position: relative;
+  overflow: hidden;
+  display: block;
+} */
+
+.item-slider .slick-slide {
+  margin: 10px;
+}
+
+.item-slider * {
+  outline: none;
+}
+
+.item-slider p {
+  size: 1.5rem;
+  margin-top: 10px;
+}
+
+.item-slider .slick-dots {
+  position: absolute;
+  top: 360px;
+}
+
+.item-slider .item-name {
+  display: block;
+  float: left;
+}
+
+.item-slider .item-price {
+  display: block;
+  float: right;
+}

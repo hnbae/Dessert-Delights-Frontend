@@ -1,0 +1,12 @@
+#main-slider .slick-dots {
+  text-align: right;
+  top: 0;
+  margin: 10px 0;
+}
+
+#main-slider .slick-slide img {
+  /* object-fit: cover;
+  object-position: bottom; */
+  width: 100%;
+  height: 400px;
+}

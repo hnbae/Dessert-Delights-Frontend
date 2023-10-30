@@ -1,0 +1,30 @@
+.main-page-container {
+  padding: 40px;
+}
+
+.main-page-container article {
+  margin-bottom: 120px;
+}
+
+.main-page-container h1 {
+  width: 100%;
+
+  font-family: "Merriweather";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 130%;
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.5px;
+
+  /* $-beige-600 */
+
+  color: #b2a495;
+}
+
+.main-page-container .slidebox {
+  width: 100%;
+  height: 362px;
+}
