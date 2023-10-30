@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/Merriweather/Merriweather-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Caramel";
+  src: url("../fonts/Caramel/Caramel-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  src: url("../fonts/Inter/Inter-Regular.ttf");
+}
+
+@font-face {
+  font-family: "NanumGothic";
+  src: url("../fonts/NanumGothic/NanumGothic-Regular.ttf");
+}
+
+@font-face {
+  font-family: "NanumGothicCoding";
+  src: url("../fonts/NanumGothicCoding/NanumGothicCoding-Regular.ttf");
+}
